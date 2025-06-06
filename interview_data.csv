@@ -1,0 +1,52 @@
+Question,Topic,Difficulty,Company,Link
+Two Sum,Arrays,Easy,Amazon,https://leetcode.com/problems/two-sum/
+Reverse Linked List,Linked Lists,Easy,Google,https://leetcode.com/problems/reverse-linked-list/
+Longest Common Subsequence,Dynamic Programming,Medium,Microsoft,https://leetcode.com/problems/longest-common-subsequence/
+Dijkstra’s Algorithm,Graphs,Medium,Facebook,https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+Valid Parentheses,Stack,Easy,Amazon,https://leetcode.com/problems/valid-parentheses/
+Number of Islands,Graphs,Medium,Google,https://leetcode.com/problems/number-of-islands/
+Kadane’s Algorithm,Arrays,Easy,Microsoft,https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+Top K Frequent Elements,Heap,Medium,Facebook,https://leetcode.com/problems/top-k-frequent-elements/
+Median of Two Sorted Arrays,Divide and Conquer,Hard,Amazon,https://leetcode.com/problems/median-of-two-sorted-arrays/
+Longest Palindromic Substring,Strings,Medium,Google,https://leetcode.com/problems/longest-palindromic-substring/
+Word Break,Dynamic Programming,Medium,Microsoft,https://leetcode.com/problems/word-break/
+Trie Implementation,Tries,Medium,Facebook,https://leetcode.com/problems/implement-trie-prefix-tree/
+Floyd Warshall Algorithm,Graphs,Medium,Amazon,https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
+Coin Change Problem,Dynamic Programming,Medium,Google,https://leetcode.com/problems/coin-change/
+Sliding Window Maximum,Deque,Hard,Microsoft,https://leetcode.com/problems/sliding-window-maximum/
+Lowest Common Ancestor of BST,Trees,Medium,Facebook,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+Clone Graph,Graphs,Medium,Amazon,https://leetcode.com/problems/clone-graph/
+Reverse Integer,Math,Easy,Google,https://leetcode.com/problems/reverse-integer/
+Design LRU Cache,System Design,Hard,Microsoft,https://leetcode.com/problems/lru-cache/
+Binary Tree Level Order Traversal,Trees,Medium,Facebook,https://leetcode.com/problems/binary-tree-level-order-traversal/
+Course Schedule,Graphs,Medium,Amazon,https://leetcode.com/problems/course-schedule/
+Maximum Product Subarray,Arrays,Medium,Google,https://leetcode.com/problems/maximum-product-subarray/
+Letter Combinations of a Phone Number,Backtracking,Medium,Microsoft,https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+Permutations,Backtracking,Medium,Facebook,https://leetcode.com/problems/permutations/
+Longest Increasing Subsequence,Dynamic Programming,Medium,Amazon,https://leetcode.com/problems/longest-increasing-subsequence/
+Number of Connected Components,Graphs,Easy,Google,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+Search in Rotated Sorted Array,Binary Search,Medium,Microsoft,https://leetcode.com/problems/search-in-rotated-sorted-array/
+Implement Queue using Stacks,Stack,Easy,Facebook,https://leetcode.com/problems/implement-queue-using-stacks/
+Valid Sudoku,Backtracking,Medium,Amazon,https://leetcode.com/problems/valid-sudoku/
+Design Twitter,System Design,Medium,Google,https://leetcode.com/problems/design-twitter/
+Subsets,Backtracking,Medium,Microsoft,https://leetcode.com/problems/subsets/
+Count Inversions,Divide and Conquer,Hard,Facebook,https://www.geeksforgeeks.org/counting-inversions/
+Gas Station,Greedy,Medium,Amazon,https://leetcode.com/problems/gas-station/
+Decode String,Stack,Medium,Google,https://leetcode.com/problems/decode-string/
+Insert Interval,Arrays,Medium,Microsoft,https://leetcode.com/problems/insert-interval/
+Number of Islands II,Union Find,Hard,Facebook,https://leetcode.com/problems/number-of-islands-ii/
+Reverse Nodes in k-Group,Linked Lists,Hard,Amazon,https://leetcode.com/problems/reverse-nodes-in-k-group/
+Longest Valid Parentheses,Stack,Hard,Google,https://leetcode.com/problems/longest-valid-parentheses/
+Binary Search Tree Iterator,Trees,Medium,Microsoft,https://leetcode.com/problems/binary-search-tree-iterator/
+Rotting Oranges,Graphs,Medium,Facebook,https://leetcode.com/problems/rotting-oranges/
+Path Sum,Trees,Easy,Amazon,https://leetcode.com/problems/path-sum/
+Best Time to Buy and Sell Stock,Arrays,Easy,Google,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Remove Nth Node From End of List,Linked Lists,Medium,Microsoft,https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+Min Stack,Stack,Easy,Facebook,https://leetcode.com/problems/min-stack/
+Binary Tree Maximum Path Sum,Trees,Hard,Amazon,https://leetcode.com/problems/binary-tree-maximum-path-sum/
+Flatten Binary Tree to Linked List,Trees,Medium,Google,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+Number of Distinct Islands,Graphs,Medium,Microsoft,https://leetcode.com/problems/number-of-distinct-islands/
+Find Peak Element,Arrays,Medium,Facebook,https://leetcode.com/problems/find-peak-element/
+Course Schedule II,Graphs,Medium,Amazon,https://leetcode.com/problems/course-schedule-ii/
+Longest Repeating Character Replacement,Strings,Medium,Google,https://leetcode.com/problems/longest-repeating-character-replacement/
+Longest Consecutive Sequence,Arrays,Hard,Microsoft,https://leetcode.com/problems/longest-consecutive-sequence/
