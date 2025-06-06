@@ -1,5 +1,5 @@
 # Smart-Interview-OA-Bot
-It is a simple web-based tool that helps you explore and prepare for interview questions.
+It is a web-based tool that helps you explore and prepare for interview questions.
 You can type any interview question or topic, and the app will try to:
  - Predict the Topic and Difficulty of the question
  - Guess the Company (if company tags are available in the dataset)
