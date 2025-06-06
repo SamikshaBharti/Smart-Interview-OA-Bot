@@ -2,10 +2,8 @@
 It is a web-based tool that helps you explore and prepare for interview questions.
 You can type any interview question or topic, and the app will try to:
  - Predict the Topic and Difficulty of the question
- - Guess the Company (if company tags are available in the dataset)
+ - Guess the Company
  - Show you similar questions from the database to expand your preparation
-I built this project mainly to practice working with text data, machine learning pipelines, and creating interactive apps using Streamlit.
-
 
 # Features
  - Clean and simple UI with a dark theme
